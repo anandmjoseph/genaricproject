@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="please">Please wait request in progress...</string>
+    <string name="avatar_image">Profile Image</string>
+</resources>
